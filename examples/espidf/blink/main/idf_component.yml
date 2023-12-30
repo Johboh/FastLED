@@ -1,0 +1,6 @@
+dependencies:
+  espidf_component:
+    #version: ">=3.6.0"
+    # Remove path and enable version to use FastLED from repository
+    # Also name the dependency "johboh/FastLED"
+    path: ../../../../espidf_component
